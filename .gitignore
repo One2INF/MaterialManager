@@ -29,6 +29,8 @@ ui_*.h
 Makefile*
 *build-*
 
+MaterialManager-*
+
 # Qt unit tests
 target_wrapper.*
 
