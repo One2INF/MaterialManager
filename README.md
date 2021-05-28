@@ -135,6 +135,14 @@
   
   | 物料编号 | 物料名称 | 数量 | 挂账人 |
 
+![数据库表](./images/数据库表.PNG)
+![CityStatistiscCode](./images/CityStatistiscCode.PNG)
+![MaterialManagers](./iMaterialManagersmages/数据库表.PNG)
+![MaterialStock](./images/MaterialStock.PNG)
+![MaterialList](./images/MaterialList.PNG)
+![OperationRecord](./images/OperationRecord.PNG)
+
+
 ### TODO
 - 添加账户登录（已完成）
 - 行政区域划分（已完成）
@@ -146,6 +154,7 @@
 
 ### 说明
 1. 行政区域划数据分请参照我的另一个仓库 [StatisticsZoneDatabase](https://gitee.com/One2INF/StatisticsZoneDatabase)
+2. 推荐使用 [Dbeaver](https://dbeaver.io/) 数据库可视化管理软件，有对应免费社区版，功能够用。
 
 ### 结语
 1. 由于对物料管理认知有限，软件欠缺通用行，适合实际；
