@@ -136,10 +136,15 @@
   | 物料编号 | 物料名称 | 数量 | 挂账人 |
 
 ![数据库表](./images/数据库表.PNG)
+
 ![CityStatistiscCode](./images/CityStatistiscCode.PNG)
-![MaterialManagers](./iMaterialManagersmages/数据库表.PNG)
+
+![MaterialManagers](./images/MaterialManagers.PNG)
+
 ![MaterialStock](./images/MaterialStock.PNG)
+
 ![MaterialList](./images/MaterialList.PNG)
+
 ![OperationRecord](./images/OperationRecord.PNG)
 
 
