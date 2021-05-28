@@ -13,7 +13,7 @@
 #### 入库：
 物料采购后，管理员将物料，数量直接挂到负责人，备注说明。
 
-![入库](./images/insotck.png)
+![insotck](./images/insotck.png)
 
 - 挂账人
 - 备注
